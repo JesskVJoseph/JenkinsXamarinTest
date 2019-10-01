@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/deepenp/Projects/testIOSJenk/testIOSJenk/testIOSJenk.csproj": {}
+  },
+  "projects": {
+    "/Users/deepenp/Projects/testIOSJenk/testIOSJenk/testIOSJenk.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/deepenp/Projects/testIOSJenk/testIOSJenk/testIOSJenk.csproj",
+        "projectName": "testIOSJenk",
+        "projectPath": "/Users/deepenp/Projects/testIOSJenk/testIOSJenk/testIOSJenk.csproj",
+        "packagesPath": "/Users/deepenp/.nuget/packages/",
+        "outputPath": "/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/deepenp/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

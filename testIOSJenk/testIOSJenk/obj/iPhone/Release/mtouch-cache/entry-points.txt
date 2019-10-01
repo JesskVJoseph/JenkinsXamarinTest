@@ -1,0 +1,24 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll

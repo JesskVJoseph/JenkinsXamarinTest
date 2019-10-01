@@ -1,0 +1,7 @@
+RemoveDynamicRegistrar:true
+/Users/deepenp/Projects/testIOSJenk/testIOSJenk/bin/iPhone/Release/testIOSJenk.app:/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/mtouch-cache/1-Link/testIOSJenk.exe
+/Users/deepenp/Projects/testIOSJenk/testIOSJenk/bin/iPhone/Release/testIOSJenk.app:/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+/Users/deepenp/Projects/testIOSJenk/testIOSJenk/bin/iPhone/Release/testIOSJenk.app:/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+/Users/deepenp/Projects/testIOSJenk/testIOSJenk/bin/iPhone/Release/testIOSJenk.app:/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+/Users/deepenp/Projects/testIOSJenk/testIOSJenk/bin/iPhone/Release/testIOSJenk.app:/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/mtouch-cache/1-Link/System.Core.dll
+/Users/deepenp/Projects/testIOSJenk/testIOSJenk/bin/iPhone/Release/testIOSJenk.app:/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/mtouch-cache/1-Link/System.Net.Http.dll

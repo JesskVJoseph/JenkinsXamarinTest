@@ -1,0 +1,10 @@
+/Users/deepenp/Projects/testIOSJenk/testIOSJenk/bin/iPhone/Release/testIOSJenk.exe
+/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/actool/_PartialAppManifest.items
+/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/actool/_BundleResourceWithLogicalName.items
+/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/coremlc/_PartialAppManifest.items
+/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/coremlc/_BundleResourceWithLogicalName.items
+/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/optimized/
+/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/testIOSJenk.csprojAssemblyReference.cache
+/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/testIOSJenk.csproj.CoreCompileInputs.cache
+/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/testIOSJenk.exe

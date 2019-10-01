@@ -1,0 +1,24 @@
+--cache=/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/mtouch-cache
+--dev=/Users/deepenp/Projects/testIOSJenk/testIOSJenk/bin/iPhone/Release/testIOSJenk.app
+--executable=testIOSJenk
+ --sgen-conc
+ --linksdkonly
+"--sdkroot=/Users/deepenp/Downloads/Xcode 3.app/Contents/Developer"
+--sdk=12.4
+--targetver=12.2
+ --aot-options=-O=-float32
+ --http-message-handler=NSUrlSessionHandler
+ --abi=arm64
+--symbollist=/Users/deepenp/Projects/testIOSJenk/testIOSJenk/obj/iPhone/Release/mtouch-symbols.list
+ --dsym=no
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Drawing.Common.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Numerics.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Numerics.Vectors.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll
+ --target-framework=Xamarin.iOS,v1.0
+--root-assembly=/Users/deepenp/Projects/testIOSJenk/testIOSJenk/bin/iPhone/Release/testIOSJenk.exe
+ 
