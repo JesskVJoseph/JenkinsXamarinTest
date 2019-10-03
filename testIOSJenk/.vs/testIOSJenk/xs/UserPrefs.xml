@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{F2BC7616-A673-48A6-A2A6-3D379F8B1685}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="testIOSJenk/AppDelegate.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="testIOSJenk/Info.plist">
     <Files>
       <File FileName="testIOSJenk/AppDelegate.cs" Line="20" Column="10" />
+      <File FileName="testIOSJenk/Info.plist" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="testIOSJenk" expanded="True">
             <Node name="testIOSJenk" expanded="True">
-              <Node name="AppDelegate.cs" selected="True" />
+              <Node name="Info.plist" selected="True" />
             </Node>
           </Node>
         </State>

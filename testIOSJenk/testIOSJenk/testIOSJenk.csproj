@@ -22,7 +22,8 @@
         <WarningLevel>4</WarningLevel>
         <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
         <MtouchArch>ARM64</MtouchArch>
-        <CodesignKey>iPhone Developer</CodesignKey>
+        <CodesignKey>iPhone Distribution: Cityfleet Networks Ltd (VK34TVT48R)</CodesignKey>
+        <CodesignProvision>iOS Team Ad Hoc Provisioning Profile: com.cityfleet.webrefresh</CodesignProvision>
     </PropertyGroup>
     <ItemGroup>
         <Reference Include="System" />
